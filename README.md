@@ -20,9 +20,10 @@ Upheno (https://github.com/obophenotype/upheno.git)
   
   
 # Content
-This repository includes the data (general.zip, graph structures.zip, and embeddings) and source code (in the src folder) to produce scores using:
+This repository includes the data (general, graph structures, and embeddings) and source code (in the src folder) to produce scores using:
 - Direct GDA ranking
 - BMA-based GDA ranking
   # Extra details
   - All embeddings are found in (https://drive.google.com/drive/folders/1QjHkIl4q1hOaUOW5YB3fY7M66RHy9UZ7?usp=sharing), you can use them to calculate the GDA based on them using the scoring codes.
+  - In each folder, there are extra information about files are there and how they can be used.
   
