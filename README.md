@@ -24,6 +24,6 @@ This repository includes the data (general, graph structures, and embeddings) an
 - Direct GDA ranking
 - BMA-based GDA ranking
   # Extra details
-  - All embeddings are found in (https://drive.google.com/drive/folders/1QjHkIl4q1hOaUOW5YB3fY7M66RHy9UZ7?usp=sharing), you can use them to calculate the GDA based on them using the scoring codes.
+  - All embeddings are found in (https://mega.nz/folder/uAM1UQBS#_UwDFwJycprpXzYSDtLt7Q), you can use them to calculate the GDA based on them using the scoring codes.
   - In each folder, there is extra information about files are there and how they can be used.
   
